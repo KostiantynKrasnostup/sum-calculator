@@ -1,0 +1,12 @@
+{
+  "name": "sum-server",
+  "version": "1.0.0",
+  "description": "Simple Node.js sum service",
+  "main": "server_sum.js",
+  "scripts": {
+    "start": "node server_sum.js"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
